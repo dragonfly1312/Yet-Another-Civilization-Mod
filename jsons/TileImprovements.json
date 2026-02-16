@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Solar and Moon Stone Calendars",
+		"uniqueTo": "The Cañari",
+		"terrainsCanBeBuiltOn": ["Land"],
+        "techRequired": "Calendar",
+		"turnsToBuild": 7,
+		"uniques":["[+2 Culture, +1 Faith] for each adjacent [City center]","Must be next to [City center]"]
+    },
+	{
 		"name": "Whalebone House",
 		"uniqueTo": "The Thule",
 		"terrainsCanBeBuiltOn": ["Land"],

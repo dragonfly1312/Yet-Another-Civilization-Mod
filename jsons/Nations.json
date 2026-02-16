@@ -1,5 +1,189 @@
 [
 	{
+		"name": "The Guna",
+		"leaderName": "Nele Kantule",
+		"adjective": ["The Guna"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 152, 61],
+		"innerColor": [15, 9, 3],
+		"uniqueName": "Babigala",
+		"uniques": ["Provides [1] [Mola]","[+1 Culture, +2 Gold] from [Coast] tiles [in all cities]"],
+		"cities": ["Usdub", "Ailigandí", "Gaigirgordub", "Gardi Sugdub", "Isber Yala", "Assudub", "Yandup", "Aggwanusadub", "Dubwala", "Ukupseni"],
+		"spyNames":["Richard Oglesby Marsh", "Simral Colman", "Inabaginya", "Wago Méndez"]
+	},
+	{
+		"name": "Caria",
+		"leaderName": "Artemisia II",
+		"adjective": ["Caria"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [64, 130, 62],
+		"innerColor": [255, 251, 138],
+		"uniqueName": "Monumental Ambitions",
+		"uniques": ["[Faith] cost of purchasing [Great General] units [-15]%","[Faith] cost of purchasing [Great Admiral] units [-15]%","[+10]% Strength <for [Melee Water] units> <before the [Renaissance era]>",
+			"May buy [Great Admiral] units with [Faith] for [2] times their normal Production cost","May buy [Great General] units with [Faith] for [2] times their normal Production cost","[+2 Culture, +1 Gold] from every [Lighthouse]"],
+		"cities": ["Halicarnassus","Mylasa","Aphrodisias","Miletus","Alabanda","Didyma","Stratonicea","Iasus","Bargylia","Plarasa"],
+		"spyNames":["Hecatomnus","Mausolus","Thales","Phoroneus"]
+	},
+	{
+		"name": "Argos",
+		"leaderName": "Pheidon",
+		"adjective": ["Argos"],
+		"startBias": ["None"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [66, 27, 41],
+		"uniqueName": "Gorgoneion",
+		"uniques": ["[Faith] cost of purchasing [Settler] units [-25]%","[Faith] cost of purchasing [Worker] units [-25]%",
+			"May buy [Settler] units with [Faith] for [2] times their normal Production cost","May buy [Worker] units with [Faith] for [2] times their normal Production cost"],
+		"cities": ["Argos","Epidauros","Hermion","Mases","Nauplia","Anthene","Hysiai","Asine"],
+		"spyNames":["Telesilla","Bilistiche","Eleni","Toros"]
+	},
+	{
+		"name": "Syracuse",
+		"leaderName": "Dionysius I",
+		"adjective": ["Syracuse"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [216, 219, 227],
+		"innerColor": [255, 58, 36],
+		"uniqueName": "Iron Hand of Innovation",
+		"uniques": ["[Great Engineer] is earned [+25]% faster","[+30]% Production when constructing [Siege] units [in all cities]","[-25]% maintenance costs <for [All] units>"],
+		"cities": ["Syracuse", "Gela", "Naxos", "Zancle", "Camarina", "Catania", "Leontini", "Caulonia", "Thurii"],
+		"spyNames":["Gelon", "Hiero", "Thrasybulus", "Polyzalos", "Dion"]
+	},
+	{
+		"name": "The Manteño",
+		"leaderName": "Salango",
+		"adjective": ["The Manteño"],
+		"startBias": ["Coast","Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 249, 240],
+		"innerColor": [46, 127, 219],
+		"uniqueName": "League of Merchants",
+		"uniques": ["[+2]% [Gold] from every [Coast]","[+2 Gold] from every [Luxury resource]","[Great Merchant] is earned [+35]% faster","[+25]% [Gold] [in capital]"],
+		"cities": ["Manta", "Ligüiki", "Salango", "Sacachún", "Cerro de Hojas-Jaboncillo", "Jaramijó"],
+		"spyNames":["Umiña", "Tumbal", "San Biritute"]
+	},
+	{
+		"name": "The Cañari",
+		"leaderName": "Francisco Chilche",
+		"adjective": ["The Cañari"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 191, 94],
+		"innerColor": [117, 88, 45],
+		"uniqueName": "Siege of Cusco",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Ignore terrain cost] promotion","[+25]% Strength <vs cities>","New [Siege] units start with [15] XP [in all cities]"],
+		"cities": ["Hatun Cañar", "Shabalula", "Guapondelig", "Chobshi", "Yacubiñay", "Cojitambo", "Shin", "Cañaribamba"],
+		"spyNames":["Diego Vilchumlay", "Cusicayo", "Ataorupagui"]
+	},
+	{
+		"name": "The Tocharians",
+		"leaderName": "Suvarṇapuṣpa",
+		"adjective": ["The Tocharians"],
+		"startBias": ["Oasis"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [148, 28, 28],
+		"innerColor": [242, 191, 61],
+		"uniqueName": "Oasis States of the Tarim Basin",
+		"uniques": ["[+2 Gold, +1 Culture] from [Oasis] tiles [in all cities]","[+25]% [Gold] from Trade Routes","[+10]% [Culture] from Trade Routes"],
+		"cities": ["Kucha", "Agni", "Kroraïna", "Luntai", "Kashgar", "Turpan", "Caḍ́ota", "Baluka", "Jiaohe", "Gaochang"],
+		"spyNames":["Tottika", "Hong", "Chengde", "Zeluo"]
+	},
+	{
 		"name": "The Dorset",
 		"leaderName": "Inukpak",
 		"adjective": ["The Dorset"],

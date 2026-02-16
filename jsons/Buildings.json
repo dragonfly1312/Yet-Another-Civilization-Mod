@@ -1,5 +1,63 @@
 [ 
 	{
+		"name": "Ergasterion",
+		"uniqueTo": "Caria",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Must not be on [Plains]","[+10]% [Production] [in this city]","Provides [1] [Marble]",
+			"[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Asklepeion",
+		"uniqueTo": "Argos",
+		"replaces": "Temple",
+		"faith": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Claw of Archimedes",
+		"uniqueTo": "Syracuse",
+		"cost": 90,
+		"maintenance":2,
+		"requiredBuilding": "Walls",
+		"specialistSlots":{"Engineer": 2},
+		"hurryCostModifier": 25,
+		"cityStrength": 5,
+		"uniques": ["Comment [+2 Engineer slot]","Enemy [Water] units must spend [1] extra movement points when inside your territory","Must be next to [Coast]"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Marine Corral",
+		"uniqueTo": "The Manteño",
+		"replaces": "Harbor",
+		"cost": 120,
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Spondylus]",
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Production] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "Karez",
+		"uniqueTo": "The Tocharians",
+		"replaces": "Aqueduct",
+		"gold": 2,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Ivory Carver",
 		"uniqueTo": "The Dorset",
 		"replaces": "Workshop",

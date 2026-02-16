@@ -71,6 +71,14 @@
 		"improvementStats": {"production": 1}
 	},
 	{
+		"name": "Mola",
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Spondylus",
+		"resourceType": "Luxury"
+	},
+	{
 		"name": "Ivory Carving",
 		"resourceType": "Luxury"
 	},
