@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Siida",
+		"uniqueTo": "The Sámi",
+		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
+        "techRequired": "Trapping",
+		"turnsToBuild": 7,
+		"uniques":["[+1 Food, +1 Production] <after adopting [Mercantilism]>","[+2 Gold] <after discovering [Biology]>","[+1 Gold] from [Snow] tiles",
+		"[+1 Food] for each adjacent [City center]"]
+    },
+	{
 		"name": "Solar and Moon Stone Calendars",
 		"uniqueTo": "The Cañari",
 		"terrainsCanBeBuiltOn": ["Land"],

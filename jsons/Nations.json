@@ -1,5 +1,134 @@
 [
 	{
+	"name": "Kazembe",
+	"leaderName": "Mwata Kazembe II",
+	"adjective": ["Kazembe"],
+	"startBias":["River"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [168, 170, 189],
+    "innerColor": [21, 21, 23],
+	"uniqueName": "River Lords",
+	"uniques": ["[+1 Food] from every [River]","[+10]% [Culture] [in all cities]","[+15]% [Food] [in all cities]","[+10]% [Faith] [in all cities]","[+10]% [Gold] [in all cities]"],
+	"cities": ["Mwansabombwe", "Lubemba", "Mambilima", "Chiengi", "Nchelenge", "Kashikishi", "Kaputa", "Kawambwa", "Samfya", "Luapula"],
+	"spyNames": ["Saki"]
+    },
+	{
+		"name": "The Mossi",
+		"leaderName": "Yennenga",
+		"adjective": ["The Mossi"],
+		"startBias":["Plains"],
+		"preferredVictoryType": "Domination",
+	
+	
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+	
+				"declaringWar": "We cannot tolerate you anymore",
+		"attacked": "The war has hardened us, but it has not broken us",
+		"defeated": "This cannot happen!",
+		"introduction": "Welcome to our land",
+		"neutralHello": "Hello.",
+		"hateHello": "We do not fear war",
+		"tradeRequest": "Check out this",
+		"outerColor": [252, 202, 63],
+		"innerColor": [69, 55, 18],
+		"uniqueName": "Naam",
+		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Blitz] promotion","[-50]% maintenance on road & railroads","[-50]% maintenance costs <for [Mounted] units>"],
+		"cities": ["Ouagadougou","Tenkodogo","Yatenga","Fada N'gourma","Nanumba","Dagomba","Mamprusi","Oula","Larle","Gounghin"],
+		"spyNames": ["Saki"]
+	},
+	{
+		"name": "Shilluk",
+		"leaderName": "Tugo wad Dhokoth",
+		"adjective": ["Shilluk"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [39, 26, 87],
+		"innerColor": [255, 214, 125],
+		"uniqueName": "Effigy of the Sacred King",
+		"uniques": ["[+1 Production, +1 Faith] from [River] tiles [in all cities]","[+5]% growth [in all cities]","[Gold] cost of purchasing [Civilian] units [-35]%","[Faith] cost of purchasing [Civilian] units [-35]%"],
+		"cities": ["Fashoda","Panyikang","Akurwa","Kaka","Malakal","Doleib","Tonga","Debalo","Morro","Detwok"],
+		"spyNames":["Aney","Diwaad","Juok","Kwathker","Papiet"]
+	},
+	{
+		"name": "Magan",
+		"leaderName": "Manium",
+		"adjective": ["Magan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [242, 132, 53],
+		"innerColor": [41, 22, 9],
+		"uniqueName": "Copper Mountain",
+		"uniques": ["[+2 Gold] from [Copper] tiles [in all cities]","[-45]% construction time for [Mine] improvements"],
+		"cities": ["Sohar", "Hili", "Al Bidya", "Tell Abraq", "Kalba", "Al Sufouh", "Samad Al Shaan"],
+		"spyNames":["Oannes", "Inzak", "Meskilak"]
+	},
+	{
+		"name": "The Sámi",
+		"leaderName": "Rijkuo-Maja",
+		"adjective": ["The Sámi"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The Empire i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [80, 105, 250],
+		"innerColor": [205, 255, 176],
+		"uniqueName": "Hold of Tjekku Sacrifice",
+		"uniques": ["[+1 Culture, +2 Food] from [Snow] tiles [in all cities]","[+1 Culture, +2 Food] from [Tundra] tiles [in all cities]",
+			"[+25]% Strength <when fighting in [Snow] tiles>","[+25]% Strength <when fighting in [Tundra] tiles>"],
+		"cities": ["Mausjaure", "Kárásjohka", "Guovdageaidnu", "Aanaar", "Divtasvuodna", "Leavdnja", "Romsa", "Árviesjávrrie", "Unjárga"],
+		"spyNames":["Laib Olmai", "Noaidi", "Horagalles", "Ruohtta", "Juoksa"]
+	},
+	{
 		"name": "The Guna",
 		"leaderName": "Nele Kantule",
 		"adjective": ["The Guna"],
@@ -9467,7 +9596,7 @@
 	},
 {
 		"name": "Uzbekistan",
-		"leaderName": "Muhammad Rahim Khan II",
+		"leaderName": "Islam Karimov",
 		"adjective": ["Uzbek"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
@@ -10984,7 +11113,7 @@
         {
 		//nations
 		"name": "Caral–Supe",
-		"leaderName": "Qhapaq",
+		"leaderName": "Four Tupus",
 		"adjective": ["Caral–Supe"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
