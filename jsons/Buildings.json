@@ -1,5 +1,18 @@
 [ 
 	{
+		"name": "Meleka",
+		"uniqueTo": "The Hadza",
+		"replaces": "Granary",
+		"food": 2,
+		"faith":1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
 		"name": "Salt Pit",
 		"uniqueTo":"Kazembe",
 		"production": 2,

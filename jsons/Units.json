@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Panjuko Archer",
+		"uniqueTo": "The Hadza",
+		"replaces": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 35,
+		"uniques":["[+25]% Strength <vs [Wounded] units>"],
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Makanda Guard",
 		"uniqueTo": "Kazembe",
 		"replaces": "Pikeman",

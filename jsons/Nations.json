@@ -1,5 +1,30 @@
 [
 	{
+	"name": "The Hadza",
+	"leaderName": "Indaya",
+	"adjective": ["The Hadza"],
+	"startBias":["Lakes"],
+	"preferredVictoryType": "Domination",
+
+
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
+			"declaringWar": "We cannot tolerate you anymore",
+	"attacked": "The war has hardened us, but it has not broken us",
+	"defeated": "This cannot happen!",
+	"introduction": "Welcome to our land",
+	"neutralHello": "Hello.",
+	"hateHello": "We do not fear war",
+	"tradeRequest": "Check out this",
+	"outerColor": [54, 43, 33],
+    "innerColor": [250, 212, 135],
+	"uniqueName": "Cradle of Mankind",
+	"uniques": ["Starts with [Archery]","Starts with [Trapping]","[-10]% [Science] [in all cities]"],
+	"cities": ["Siponga", "Mangola", "Tlhi'ika", "Dunduhina", "Han!abi", "Sengele", "Umbeya", "Bashana", "Sanola", "Balai", "Quetlako"],
+	"spyNames": ["Haine", "Sengani", "Ssaabo", "Waonolakhi"]
+    },
+	{
 	"name": "Kazembe",
 	"leaderName": "Mwata Kazembe II",
 	"adjective": ["Kazembe"],
