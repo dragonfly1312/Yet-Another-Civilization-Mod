@@ -1,15 +1,15 @@
 [
   {
     "name": "Guerrilla",
-    "unitType": "Archer",
+    "unitType": "Archery",
     "uniqueTo": "Minho",
-    "replaces": "Archery",
+    "replaces": "Archer",
     "movement": 2,
     "strength": 60,
     "rangedStrength": 0,
     "range": 1,
-    "cost": 200,
-    "requiredTech": "Agriculture",
+    "cost": 25,
+    "requiredTech": "Archery",
    
   },
   {
@@ -21,10 +21,9 @@
     "strength": 40,
     "rangedStrength": 20,
     "range": 2,
-    "cost": 250,
+    "cost": 5,
  
   },
-  
 	{
 		"name": "Panjuko Archer",
 		"uniqueTo": "The Hadza",
