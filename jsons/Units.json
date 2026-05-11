@@ -1,29 +1,5 @@
 [
-  {
-    "name": "Guerrilla",
-    "unitType": "Archery",
-    "uniqueTo": "Minho",
-    "replaces": "Archer",
-    "movement": 2,
-    "strength": 60,
-    "rangedStrength": 0,
-    "range": 1,
-    "cost": 25,
-    "requiredTech": "Archery",
-    "uniques": ["No movement cost to pillage","May capture killed [Wounded] units","[+20]% Strength bonus for [All] units within [2] tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
-  },
-  {
-    "name": "Neighbour",
-    "unitType": "Scout",
-    "uniqueTo": "Minho",
-    "replaces": "Scout",
-    "movement": 3,
-    "strength": 40,
-    "rangedStrength": 20,
-    "range": 2,
-    "cost": 5,
- 
-  },
+
 {
 		"name": "Maria da Fonte",
 		"uniqueTo": "Minho",
