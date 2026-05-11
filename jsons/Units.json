@@ -13,7 +13,7 @@
     "uniques": ["No movement cost to pillage","May capture killed [Wounded] units","[+20]% Strength bonus for [All] units within [2] tiles","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
   },
   {
-    "name": "Neighbours",
+    "name": "Neighbour",
     "unitType": "Scout",
     "uniqueTo": "Minho",
     "replaces": "Scout",
