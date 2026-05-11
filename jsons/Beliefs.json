@@ -18,7 +18,7 @@
                 "type": "Founder",
                 "uniques": [
                         "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] [in all cities]",
-                        "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] per [2] population [in capital]"
+                        "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] per [2] population [in all cities disconnected from capital]"
                 ]
         },
 ]
