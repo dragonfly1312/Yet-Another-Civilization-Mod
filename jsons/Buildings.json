@@ -1,4 +1,69 @@
 [ 
+  {
+    "name": "Barricade",
+    "replaces": "Town Hall",
+    "uniqueTo": "Minho",
+    "cost": 300,
+    "happiness": 8,
+    "culture": 6,
+    "maintenance": 40,
+    "requiredTech": "Civil Service",
+    "uniques": ["+2 [Culture] for every [Cavalry] unit in the city"],
+    "description": "A defensive barrier that boosts culture production in cities with a strong military presence, reflecting the resilience of the Patuleia rebels."
+  },
+  {
+    "name": "Sé",
+    "replaces": "Church",
+    "uniqueTo": "Minho",
+    "cost": 200,
+    "faith": 4,
+    "happiness": 4,
+    "requiredTech": "Theology",
+    "uniques": ["+1 [Faith] for every [Holy Site] in the city"],
+    "description": "A grand cathedral that amplifies the city's spiritual influence, reflecting the strong Catholic heritage of Portugal during the Patuleia Civil War."
+  },
+  {
+    "name": "Patuleia Barracks",
+    "replaces": "Barracks",
+    "uniqueTo": "Minho",
+    "cost": 400,
+    "defense": 10,
+    "requiredTech": "Military Tactics",
+    "uniques": ["+1 [Combat Strength] for [Rebel] units produced in this city"],
+    "description": "A military academy that trains soldiers in the art of war, reflecting the Patuleia rebels' determination to defend their cause."
+  },
+  {
+    "name": "Maria da Fonte Statue",
+    "replaces": "Monument",
+    "uniqueTo": "Minho",
+    "cost": 200,
+    "happiness": 4,
+    "culture": 4,
+    "requiredTech": "Civilization",
+    "uniques": ["+1 [Happiness] for every [Guerrilla] unit in the city"],
+    "description": "A monument to Maria da Fonte, a symbol of the Patuleia rebels' struggle for freedom and self-determination."
+  },
+  {
+    "name": "Rebel Hideout",
+    "replaces": "Camp",
+    "uniqueTo": "Minho",
+    "cost": 100,
+    "movement": 2,
+    "requiredTech": "Guerrilla Warfare",
+    "uniques": ["+1 [Movement] for [Rebel] units in this city"],
+    "description": "A secret hideout for rebel forces, allowing them to move quickly and strike from the shadows."
+  },
+  {
+    "name": "Insurrectionary City",
+    "replaces": "City-State",
+    "uniqueTo": "Minho",
+    "cost": 50,
+    "happiness": 2,
+    "culture": 2,
+    "requiredTech": "Democracy",
+    "uniques": ["+1 [Happiness] for every [Rebel] unit in the city"],
+    "description": "A city that has risen up in revolt, providing a boost to happiness for rebel forces within its walls."
+  },
 	{
 		"name": "Meleka",
 		"uniqueTo": "The Hadza",
