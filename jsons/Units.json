@@ -10,8 +10,7 @@
     "range": 1,
     "cost": 200,
     "requiredTech": "Agriculture",
-    "promotions": ["Sack","Royalist","Guerrilla Warfare"],
-    "attackSound": "Minho"
+   
   },
   {
     "name": "Patuleia Guerrilla",
@@ -23,24 +22,9 @@
     "rangedStrength": 20,
     "range": 2,
     "cost": 250,
-    "requiredTech": "Guerrilla Warfare",
-    "promotions": ["Ambush","Stealth","Sabotage"],
-    "attackSound": "Minho"
+ 
   },
-  {
-    "name": "Patuleia Cavalry",
-    "unitType": "Cavalry",
-    "uniqueTo": "Minho",
-    "replaces": "Cavalry",
-    "movement": 5,
-    "strength": 80,
-    "rangedStrength": 0,
-    "range": 1,
-    "cost": 400,
-    "requiredTech": "Horseback Riding",
-    "promotions": ["Charge","Shield","Heavy Charge"],
-    "attackSound": "Minho"
-  },
+  
 	{
 		"name": "Panjuko Archer",
 		"uniqueTo": "The Hadza",
