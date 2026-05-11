@@ -10,7 +10,7 @@
     "range": 1,
     "cost": 25,
     "requiredTech": "Archery",
-   
+    "Can Spread Religion <for [2] movement> <[5] times> <after which this unit is consumed>",
   },
   {
     "name": "Neighbours",
