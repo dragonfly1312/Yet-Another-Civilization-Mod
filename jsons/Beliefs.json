@@ -12,5 +12,13 @@
     "[+1 Culture, +1 Faith] from [{unimproved} {Furs}] tiles [in all cities]",
     "[+1 Culture, +1 Faith] from [{unimproved} {Crab}] tiles [in all cities]",
     "[+1 Culture, +1 Faith] from [{unimproved} {Whales}] tiles [in all cities]"]
-    }
+    },
+        {
+                "name": "Saint Liberty",
+                "type": "Founder",
+                "uniques": [
+                        "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] [in all cities]",
+                        "[+1 Food, +1 Production, +1 Gold, +1 Science, +1 Culture, +1 Faith, +1 Happiness] per [2] population [in capital]"
+                ]
+        },
 ]
