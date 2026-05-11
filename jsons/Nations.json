@@ -18,12 +18,7 @@
     "innerColor": [228, 171, 95],
     "favoredReligion": "Saint Liberty",
     "uniqueName": "Triumph or Perish!",
-    "uniques": [
-      "[+50%] of killed [Military] unit's [Strength] as [Culture]",
-      "[+1] Movement for [Land] units when [Razing] [Cities]",
-      "[+1] Happiness in [Cities] without a [Police Station]",
-      "[+1] Happiness for [Government] type [Voluntarism]",
-      "[+1] Happiness for [Religion] adopted"
+    "uniques": [ 
     ],
     "cities": [
       "Fontarcada",
