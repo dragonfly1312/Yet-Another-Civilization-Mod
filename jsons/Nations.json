@@ -1,4 +1,53 @@
 [
+  {
+    "name": "Minho",
+    "leaderName": "Maria da Fonte",
+    "adjective": ["Portuguese"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "We are rising up against the authoritarian government of Costa Cabral.",
+    "startIntroPart2": "Eia! Forward! March on for Liberty",
+    "declaringWar": "We will not allow your liberal government to impose more taxes. Glory to Minho, we will launch an insurrection.",
+    "attacked": "We are mad, you'll regret attacking us.",
+    "defeated": "The popular will has been crushed. We will sign the Convention of Gramido",
+    "introduction": "I greet you, stranger! If you share our passion for liberty and tradition, we'll be allies in this fight against the liberal oppressors.",
+    "neutralHello": "Eia!",
+    "hateHello": "We don't want your liberal government officials in our lands!",
+    "tradeRequest": "How about we burn all the civil archives? Or something else... ",
+    "outerColor": [141, 85, 36],
+    "innerColor": [227, 167, 85],
+    "favoredReligion": "Saint Liberty",
+    "uniqueName": "Triumph or Perish!",
+    "uniques": [
+      "[+50%] of killed [Military] unit's [Strength] as [Culture]",
+      "[+1] Movement for [Land] units when [Razing] [Cities]",
+      "[+1] Happiness in [Cities] without a [Police Station]",
+      "[+1] Happiness for [Government] type [Monarchy]",
+      "[+1] Happiness for [Religion] adopted"
+    ],
+    "cities": [
+      "Fontarcada",
+      "Galegos",
+      "Póvoa de Lanhoso",
+      "Valença",
+      "Ponte de Lima",
+      "Braga",
+      "Porto",
+      "Amarante",
+      "Fafe",
+      "Viana do Castelo",
+      "Santarém",
+      "Torres Vedras",
+      "Coimbra",
+      "Ponta Delgada"
+    ],
+    "spyNames": [
+      "Padre Casimiro",
+      "João da Cruz",
+      "Manuel de Sousa",
+      "António Gonçalves"
+    ]
+  },
 	{
 	"name": "The Hadza",
 	"leaderName": "Indaya",
