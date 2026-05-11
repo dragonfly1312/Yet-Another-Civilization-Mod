@@ -1,9 +1,9 @@
 [
   {
-    "name": "Patuleia Rebels",
-    "unitType": "Rebel",
+    "name": "Guerrilla",
+    "unitType": "Archer",
     "uniqueTo": "Minho",
-    "replaces": "Infantry",
+    "replaces": "Archery",
     "movement": 2,
     "strength": 60,
     "rangedStrength": 0,
@@ -13,10 +13,10 @@
    
   },
   {
-    "name": "Patuleia Guerrilla",
-    "unitType": "Guerrilla",
+    "name": "Neighbours",
+    "unitType": "Scout",
     "uniqueTo": "Minho",
-    "replaces": "Ranger",
+    "replaces": "Scout",
     "movement": 3,
     "strength": 40,
     "rangedStrength": 20,
